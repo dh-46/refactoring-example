@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="934bcf1c-113b-4382-a8c3-e194021701cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tw/dh46/example/videostore/VideoStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tw/dh46/example/videostore/VideoStoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Rental.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711597685954</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Chapter 1 - Removing Temps: Add new feature">
+      <option name="closed" value="true" />
+      <created>1711604274193</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711604274193</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,6 +332,7 @@
     <MESSAGE value="Chapter 1 - Moving the Amount Calculation: Replace Temp with Query" />
     <MESSAGE value="Chapter 1 - Extracting Frequent Renter Points&#10;&#10;- Extract Method&#10;- Move Method" />
     <MESSAGE value="Chapter 1 - Removing Temps&#10;&#10;Using Replace Temp with Query to remove temps" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 - Removing Temps&#10;&#10;Using Replace Temp with Query to remove temps" />
+    <MESSAGE value="Chapter 1 - Removing Temps: Add new feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 - Removing Temps: Add new feature" />
   </component>
 </project>
