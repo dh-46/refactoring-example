@@ -255,7 +255,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711551173421</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Chapter 1 - Decomposing and Redistributing the Statement Method&#10;&#10;Extract methods and rename variables to improve the understanding of the code.">
+      <option name="closed" value="true" />
+      <created>1711592155788</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711592155788</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Chapter 1 - Moving the Amount Calculation&#10;&#10;Move method to where it belongs~">
+      <option name="closed" value="true" />
+      <created>1711593918748</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711593918748</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +295,8 @@
     <MESSAGE value="Init project" />
     <MESSAGE value="Chapter 1 - The starting point" />
     <MESSAGE value="Chapter 1 - The first step in refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 - The first step in refactoring" />
+    <MESSAGE value="Chapter 1 - Decomposing and Redistributing the Statement Method&#10;&#10;Extract methods and rename variables to improve the understanding of the code." />
+    <MESSAGE value="Chapter 1 - Moving the Amount Calculation&#10;&#10;Move method to where it belongs~" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 - Moving the Amount Calculation&#10;&#10;Move method to where it belongs~" />
   </component>
 </project>
