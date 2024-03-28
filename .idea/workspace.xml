@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="934bcf1c-113b-4382-a8c3-e194021701cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Rental.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711593918748</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Chapter 1 - Moving the Amount Calculation: Replace Temp with Query">
+      <option name="closed" value="true" />
+      <created>1711594616760</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711594616760</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,7 +304,8 @@
     <MESSAGE value="Chapter 1 - The starting point" />
     <MESSAGE value="Chapter 1 - The first step in refactoring" />
     <MESSAGE value="Chapter 1 - Decomposing and Redistributing the Statement Method&#10;&#10;Extract methods and rename variables to improve the understanding of the code." />
-    <MESSAGE value="Chapter 1 - Moving the Amount Calculation&#10;&#10;Move method to where it belongs~" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 - Moving the Amount Calculation&#10;&#10;Move method to where it belongs~" />
+    <MESSAGE value="Chapter 1 - Moving the Amount Calculation: Move Method&#10;&#10;Move method to where it belongs~" />
+    <MESSAGE value="Chapter 1 - Moving the Amount Calculation: Replace Temp with Query" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 - Moving the Amount Calculation: Replace Temp with Query" />
   </component>
 </project>
