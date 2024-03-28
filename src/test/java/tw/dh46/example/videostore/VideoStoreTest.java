@@ -77,4 +77,23 @@ public class VideoStoreTest {
 
         Assertions.assertEquals(expected, actual);
     }
+
+    @Test
+    public void testSingleNewReleaseHtmlStatement() {
+        String expected = "<H1>Rentals for <EM>Daniel</EM></H1><P>\n" +
+                "Top Gun: 9.0<BR>\n" +
+                "<P>You owe <EM>9.0</EM><P>\n" +
+                "On this rental you earned <EM>2</EM> frequent renter points<P>";
+
+        Customer daniel = new Customer("Daniel");
+        Movie movie = new Movie("Top Gun", Movie.NEW_RELEASE);
+        Rental rental = new Rental(movie, 3);
+        daniel.addRental(rental);
+
+        String actual = daniel.htmlStatement();
+        System.out.println(actual);
+
+        Assertions.assertEquals(expected, actual);
+    }
+
 }

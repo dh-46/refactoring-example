@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="934bcf1c-113b-4382-a8c3-e194021701cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tw/dh46/example/videostore/Rental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tw/dh46/example/videostore/VideoStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tw/dh46/example/videostore/VideoStoreTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.VideoStoreTest">
+  <component name="RunManager" selected="Gradle.VideoStoreTest.testSingleNewReleaseHtmlStatement">
     <configuration name="VideoStoreTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -140,7 +141,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="VideoStoreTest.testSingleNewReleaseStatement" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="VideoStoreTest.testSingleNewReleaseHtmlStatement" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -153,7 +154,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;tw.dh46.example.videostore.VideoStoreTest.testSingleNewReleaseStatement&quot;" />
+            <option value="&quot;tw.dh46.example.videostore.VideoStoreTest.testSingleNewReleaseHtmlStatement&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -190,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.VideoStoreTest.testSingleNewReleaseHtmlStatement" />
         <item itemvalue="Gradle.VideoStoreTest" />
         <item itemvalue="Gradle.VideoStoreTest.testMultipleRegularStatement" />
         <item itemvalue="Gradle.VideoStoreTest.testSingleChildrenStatement" />
         <item itemvalue="Gradle.VideoStoreTest.testTwoNewReleaseStatement" />
-        <item itemvalue="Gradle.VideoStoreTest.testSingleNewReleaseStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +280,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711594616760</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Chapter 1 - Extracting Frequent Renter Points&#10;&#10;- Extract Method&#10;- Move Method">
+      <option name="closed" value="true" />
+      <created>1711595515559</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711595515559</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Chapter 1 - Removing Temps&#10;&#10;Using Replace Temp with Query to remove temps">
+      <option name="closed" value="true" />
+      <created>1711597685954</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711597685954</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +323,8 @@
     <MESSAGE value="Chapter 1 - Decomposing and Redistributing the Statement Method&#10;&#10;Extract methods and rename variables to improve the understanding of the code." />
     <MESSAGE value="Chapter 1 - Moving the Amount Calculation: Move Method&#10;&#10;Move method to where it belongs~" />
     <MESSAGE value="Chapter 1 - Moving the Amount Calculation: Replace Temp with Query" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 - Moving the Amount Calculation: Replace Temp with Query" />
+    <MESSAGE value="Chapter 1 - Extracting Frequent Renter Points&#10;&#10;- Extract Method&#10;- Move Method" />
+    <MESSAGE value="Chapter 1 - Removing Temps&#10;&#10;Using Replace Temp with Query to remove temps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 - Removing Temps&#10;&#10;Using Replace Temp with Query to remove temps" />
   </component>
 </project>
